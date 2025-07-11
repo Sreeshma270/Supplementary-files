@@ -1,0 +1,1081 @@
+CLUSTAL O(1.2.4) multiple sequence alignment (https://www.ebi.ac.uk/jdispatcher/msa/clustalo)
+
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      ------------------------------------------------------------	0
+sp|Q8NEZ4|KMT2C_HUMAN      MSSEEDKSVEQPQPPPPPPEEPGAPAPSPAAADKRPRGRPRK-----------DGASPFQ	49
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      ---------------------------MAHSCRWRFPARPGTTGGGGGGGRRGLGGAPRQ	33
+sp|Q9UMN6|KMT2B_HUMAN      ----------------MAAAAGGGSCPGPGSARGRFPGRPRGAGGGGGRGGRGNGAE---	41
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      ------MDSQKLAGEDKDSEPAADGPAASEDPSATES----------DLPNPH-----VG	39
+sp|Q8NEZ4|KMT2C_HUMAN      RARKKPRSRGKTAVEDED---SMDGLETTETETIVET----------EIKEQSAEEDAEA	96
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      RVPALLLPPGPPVGG--------GGPGAPPSPPAVAAAAAAAGSSGAGVPGGAAAASAA-	84
+sp|Q9UMN6|KMT2B_HUMAN      RVRVALRRGGGATGP-----------------------------------GGAE------	60
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      EVSVLSSGSPRLQETP-----------QDCSGGPVRRCALCNCGEPSLHGQRELRRFELP	88
+sp|Q8NEZ4|KMT2C_HUMAN      EVDNSKQLIPTLQRSVSEESANSLVSVGVEAKISEQLCAFCYCGEKSSLGQGDLKQFRIT	156
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      ---SSSSASSSSSSSSSASSGPALLRVGPGFDAAL---------QVSAAIGTNLRRFR--	130
+sp|Q9UMN6|KMT2B_HUMAN      ----------------------------PGEDTAL---------LRLLGLRRGLRRLRRL	83
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      F----DWPRCPVVSPGG---SP--------------------------------------	103
+sp|Q8NEZ4|KMT2C_HUMAN      PGFILPWRNQPSNKKDIDDNSNGTYEKMQNSAPRKQRGQRKERSPQQNIVSCVSVSTQTA	216
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      ------------------------------------------------------------	130
+sp|Q9UMN6|KMT2B_HUMAN      ------WAGPRVQR----------------------------------------------	91
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      GPNEAVLPSEDLSQIGFPEGLTPAHLGEPGGSCWAHHWCAAWSAGVWGQEGPELCGVDKA	163
+sp|Q8NEZ4|KMT2C_HUMAN      SDDQAGKLWDELSLVGLPDAIDIQALFDSTGTCWAHHRCVEWSLGVCQMEEPLLVNVDKA	276
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      --------------------------------------------AVFGESGGGGGSGEDE	146
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------GRGRGRGRGWGPSR------GCVPEEESSDGESDEE	121
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      IFSGISQRCSHCTR---LGASIPCRSPGCPRLYHFPCATASGSFLSMKTLQLLCPEHSEG	220
+sp|Q8NEZ4|KMT2C_HUMAN      VVSGSTERCAFCKH---LGATIKCCEEKCTQMYHYPCAAGAGTFQDFSHIFLLCPEHIDQ	333
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      QFLGFGSDEEVRVRSPTRSPSVK-TSPRKPRGRPRSGSDRNSAILSDPSVFS----PLNK	201
+sp|Q9UMN6|KMT2B_HUMAN      EFQGFHSDEDVAPSSLRS-ALRS-QRGRAPRGRGRKHK---TTPLPPPRLADVAPTPPKT	176
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      AA--YLEEARCAVCEGPGELCDLFFCTSCGHHYHGACLDTALTAR---KRAGWQCPECKV	275
+sp|Q8NEZ4|KMT2C_HUMAN      APERSKEDANCAVCDSPGDLLDQFFCTTCGQHYHGMCLDIAVTPL---KRAGWQCPECKV	390
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      SETKSGD-------------------------KIKKK-DSKSIEKKRGRPPTFPGVKIKI	235
+sp|Q9UMN6|KMT2B_HUMAN      PARKRGEEGTERMVQALTELLRRAQAPQAP--RSRAC-EPSTPRRSRGRPPGRPAGPCRR	233
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      CQACRKPGNDSKMLVCETCDKGYHTFCLKPPMEELPAHSWKCKACRVCRACGAGSAELNP	335
+sp|Q8NEZ4|KMT2C_HUMAN      CQNCKQSGEDSKMLVCDTCDKGYHTFCLQPVMKSVPTNGWKCKNCRICIECGTRS-----	445
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      THG-----KDI-----SELPKGNKEDSLKKI--K---------RTPSAT----FQ-----	265
+sp|Q9UMN6|KMT2B_HUMAN      KQQAVVVAEAA-----VTIPKPEPPPPVVPV--KHQTGSWKCKEGPGPGPGTPRR-----	281
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      NSEWFENYSLCHRCHKAQGGQTIRSVAEQHTPVCSRF----SPPEPGDTPTDEPDALYVA	391
+sp|Q8NEZ4|KMT2C_HUMAN      SSQWHHNCLICDNCYQQQDNL---------CPFCGKC----YHPELQKD--------MLH	484
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      -----QA----TK-------I-KKLRAGKLSPLK-------SKFKTGKLQIGRK-GVQIV	300
+sp|Q9UMN6|KMT2B_HUMAN      -----GG----QSSRGGRGGR-GRGRGGG-LPFVIKFVSRAKKVKMGQLSLGLE-SGQGQ	329
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      CQGQPKGGHVTSM-------------QPKEPGPL----QCEAKP---LGKAGVQLEPQL-	430
+sp|Q8NEZ4|KMT2C_HUMAN      CNMCKRWV------------------------HL----ECDKPT---DHELDTQLKEEYI	513
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      ------------RR----RGRPPSTERIKTPSGLLINSELEKPQKVRKDKEGTP------	338
+sp|Q9UMN6|KMT2B_HUMAN      GQHEESWQDVPQRRVGSGQGGSPCW---KKQEQKLDDEEEEKKEEEEKDKEGEEKE----	382
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      ---EAPLNEEMPLLPPPEESPLSPPPEESP------------TSPPPEASRLSPPPEELP	475
+sp|Q8NEZ4|KMT2C_HUMAN      CMYCKHLGAEMDRLQPGEEVEIAE------------------------------------	537
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      -------------------------PLTKEDK---------------TVVRQSPRR--I-	355
+sp|Q9UMN6|KMT2B_HUMAN      ---ERAVAEEMMPAAEKEEAKLPPPPLTPPAPSPPPPLPPPSTSPPPPLCPPPPPP--VS	437
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      ASPLPEALHLSRPLEESPLSPPPEESPLSPPPESSPFSP------------------LEE	517
+sp|Q8NEZ4|KMT2C_HUMAN      ---LTTDYN------N--------EMEVEGPEDQMVFSE------------------QAA	562
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      -----------------------------KPVRIIPSS---KRTDATIAKQLLQRAKK--	381
+sp|Q9UMN6|KMT2B_HUMAN      PPPLP-----------SPPPPPAQEEQEESPPPVVPATCSRKRGRPPL--TPSQRAEREA	484
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      SPLSPPEESPPSPALETPLSPPPEASPLSPPFEESPLSPPPEELPTSPPPEASRLSPPPE	577
+sp|Q8NEZ4|KMT2C_HUMAN      NKDVNGQESTP------------------------------G------------------	574
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      ---G---AQK---------KIEKEAAQLQGRKVKTQVKNIRQFIMPVVSAISSRIIKTPR	426
+sp|Q9UMN6|KMT2B_HUMAN      ARAGPEGTSPPTPTPSTATGGPPEDSPTVAPKSTTFLKNIRQFIMPVVSARSSRVIKTPR	544
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      ESPMSPPPEESPMSPPPEASRLFPPFEESPLSPPPEESPLSPPPEA--------------	623
+sp|Q8NEZ4|KMT2C_HUMAN      ---------------------IV--------------------PDA--------------	579
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      ---------------------RF--IEDEDYDPPIKIARLESTPNSRFSAPSCGSSEKSS	463
+sp|Q9UMN6|KMT2B_HUMAN      ---------------------RF--MDEDPPKPPKVEV----------------------	559
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      -------------SRLSPPPEDSPM-SPPPEESPM-----SPPPEVSRLSPLPV------	658
+sp|Q8NEZ4|KMT2C_HUMAN      -------------VQVH------------TEEQQK-----SHPSES--------------	595
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      AASQHSSQMSSDSSRSSSPSVDTSTDSQASEEIQVLPEERSDTPEVH--PPLPISQSPEN	521
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	559
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      ------------------------VSRLSPPP--EESPLSPPPEESPTSPPPEASRLSPP	692
+sp|Q8NEZ4|KMT2C_HUMAN      ------------------------------------------------------------	595
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      ESNDRRSRRYSVSERSFGSRTTKKLSTLQSAPQQQTSSSPPPPLLTP-PPPLQP--ASSI	578
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------SPVLRPPITTSPPVPQEP--A---	578
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      PEDSPTSPPPEDSPASPP--------P--EDSLMSLPLEESPLL-PLPEEPQLCPRS--E	739
+sp|Q8NEZ4|KMT2C_HUMAN      -----------------L--------D--TDSLLIA-VSSQHTV-NTELEKQI-------	619
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      SDHTPWLMPPTIPLASPFLPASTAPMQGKRKSILREPTFRWTSLKHSRSEPQYFSSAKYA	638
+sp|Q9UMN6|KMT2B_HUMAN      --------PVPSPPRAPTPPSTPVPLPEKRRSILREPTFRWTSLTRELPPPPPA------	624
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      GPHLSPRPEEPHLSPRPEEPHLSPQAEEPHLSPQPE--EPCLC-AVPEEPHLSPQAE---	793
+sp|Q8NEZ4|KMT2C_HUMAN      ----------------------SNEVDSEDLKMSSE--VKHIC-GEDQIEDKMEVTENIE	654
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      KEGLIRKPIFDNFRPPPLTPEDVGFA--SGFSASGTAASARLFSPLHSGTRFDMHKRSPL	696
+sp|Q9UMN6|KMT2B_HUMAN      -------------PPPPPAPS-------------------------PPPAPATSSRRPLL	646
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      --GPHLSPQPEELHLSPQTEEPHLSPVPEEPCLSPQPEESHLSPQSEEPCLSPRPEESHL	851
+sp|Q8NEZ4|KMT2C_HUMAN      VVTHQITVQQEQLQLL------------------------------------EEPET-VV	677
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      LRAPRFTPSEAHSRIFESVT-------------LPSNRTS---AGTSSSGVSNRKRKRKV	740
+sp|Q9UMN6|KMT2B_HUMAN      LRAPQFTPSEAHLKIYESVL-------------TPPPLGA---PEAPEPE----------	680
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      SPELEKPPLSPRPEKPP----EEPGQCPAPEELPLFPP-------------PGEPSLSPL	894
+sp|Q8NEZ4|KMT2C_HUMAN      SREESRP---------P----K--------------------------------------	686
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      -----FSPIRSEPRSPSHSMRTRSGRLSSSELSPLTPPSSVSSSLSISVSPLATSALNPT	795
+sp|Q9UMN6|KMT2B_HUMAN      -----PPPADDSPAEPEPRAVGRTNHLSLPRFAPVVT-----TPVKAEVSPHGAPALSN-	729
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      LGEPALSEP--GEPPLSP-LPEE------LPLSPSGEPSLSPQLMPPD---------PLP	936
+sp|Q8NEZ4|KMT2C_HUMAN      LVMESVTLP--LETLVSP-HEES------ISLCPEEQL----------------------	715
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      FTFPSHSLTQSGESAEKNQRPRKQTSAPAEPFSSSSPTPLFPWFTPGSQTERGRNKDKAP	855
+sp|Q9UMN6|KMT2B_HUMAN      -----------GPQ------TQAQLLQPLQAL----QTQLLPQALPPPQPQLQ--PPPSP	766
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      PPLSPIIT-----------------------------------AAAPPALSPLGELEY--	959
+sp|Q8NEZ4|KMT2C_HUMAN      -----VI-------------------------------------------------ER--	719
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      EELSKDRDADKSVEKDKSRERDREREKENKRESRKEKRKKGSEIQSSSALYPVGRVSKEK	915
+sp|Q9UMN6|KMT2B_HUMAN      QQM-----------------------------------------------PP---LEKAR	776
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      PFGAK--------------GDSDPESP--L-AAPI-----LETPISPPPEANCTDPEPVP	997
+sp|Q8NEZ4|KMT2C_HUMAN      LQGEK---------------EQKENSE--L-STGL-----MDSEMTPTIE-GCVKDV---	752
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      VVGEDVATSSSAKKATGRKKSSSHDSGTDITSVTLGDTTAVKTKI--LIKKGRGNLE---	970
+sp|Q9UMN6|KMT2B_HUMAN      IAGVG--------------------------SLPLS---GVEEKMFSLLKRAKVQLF---	804
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	0
+sp|O14686|KMT2D_HUMAN      PMILPPSPGSPVGPASPILMEPLPPQCSP-----LLQHSLVPQNSPPSQCSPPALPLS--	1050
+sp|Q8NEZ4|KMT2C_HUMAN      ------------------------------------------------------------	752
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      ------KTNLDLGPTAPSLEKE-KTLCLSTPSSSTVKHSTSSIGSMLAQ--ADKLPMTDK	1021
+sp|Q9UMN6|KMT2B_HUMAN      ------K--IDQQ-------QQ-QKVAASMPLS--------PGGQMEE------------	828
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ---------MSIVIPLG----VD-TAETSYLEMAAGSEPESVEASPVVVE----------	36
+sp|O14686|KMT2D_HUMAN      --------VPSPLSPIGKVVGVSDEAELHEMETEKVSEPECPALEPS-------------	1089
+sp|Q8NEZ4|KMT2C_HUMAN      ------------SYQGGKSIKLSSETESSFSSSADISK--------A-------------	779
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      RVASLLKKAKAQLCKIEKSKSLKQ-TDQPKAQGQESDSSETSVRGPRIKHVCRRAAVALG	1080
+sp|Q9UMN6|KMT2B_HUMAN      -VAG-------AVKQISDRGPVRSEDESVEAKRERPSGPESPVQGPRIKHVCRHAAVALG	880
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      -KSNSYPHQLYTSSS------HHSHSYIGLPYADHNY---------------GAR--P-P	71
+sp|O14686|KMT2D_HUMAN      -ATSPLPSPMGDLSCPAPSPAPALDDFSGLGEDTAPLDGI---------DAPGSQ--P--	1135
+sp|Q8NEZ4|KMT2C_HUMAN      -DVSSSPTPSSDLPSH-----DMLHNY---------------------------------	800
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      RKRAVFPDDMPTLSALPWE--EREKILSSMGNDDKS--SI-----------AGSE-DAEP	1124
+sp|Q9UMN6|KMT2B_HUMAN      QARAMVPEDVPRLSALPLR--DRQDLATEDTSSASETESVPSRSRRGKVEAAGPGGESEP	938
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      PTPPASPPPSVLISKNEVGIFTTPNFDETSSATTISTSEDGSYGTDVTRCI----CGFTH	127
+sp|O14686|KMT2D_HUMAN      ----------------------------------EPGQTPGSLASELKGSPVLLDPEELA	1161
+sp|Q8NEZ4|KMT2C_HUMAN      ---------------------------------------PSA----LSSS-----AGNIM	812
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      LAPPIKPIKPV--TRNKAP--QEPPVKKGRR-SRRCGQCPGCQVPE--------------	1165
+sp|Q9UMN6|KMT2B_HUMAN      TGSG-GTLAHT--PRRS----LPSHHGKKMR-MARCGHCRGCLRVQ--------------	976
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      DDGYMICCDKCSVWQHIDCMGIDRQHIPDTYLCERCQPRNLDKERA--------------	173
+sp|O14686|KMT2D_HUMAN      PVTPMEVYPECKQTAGQGSPCEEQ-EEPR---------APVAPTPP--------------	1197
+sp|Q8NEZ4|KMT2C_HUMAN      PTTYISV----TPKIGMGKPAITK------------------------------------	832
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      ---DCGVCTNCLDKPKFGGRNIKK-QCCK---MRKCQNLQWMPSKAYLQKQAKAVKKKEK	1218
+sp|Q9UMN6|KMT2B_HUMAN      ---DCGSCVNCLDKPKFGGPNTKK-QCCV---YRKCDKIEARKMERLAKKG---------	1020
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      --------VLLQRR---KRENMSDGDTSATESGDEVPVELYTAFQH---T----PTSITL	215
+sp|O14686|KMT2D_HUMAN      --------TLIKSDIVNEISNLSQGDASASFPGSEPLLGSPDPEGGGSLS---------M	1240
+sp|Q8NEZ4|KMT2C_HUMAN      ------------RK-------FS--------------PGRPRSKQG-AWS---------T	849
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	0
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      KSKTSEKKDSKESSVVKNVVDSSQKPTP------SAR-EDPAPKKSSSEPPPRKPVEEKS	1271
+sp|Q9UMN6|KMT2B_HUMAN      ------------RTIVKTLLPWDSDESP------EASPGPPGPRRGAGAG--------GP	1054
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      TASRVSKVNDKRRK-KSGEKEQHISKCKKAF---------------REGSRKSSRV----	255
+sp|O14686|KMT2D_HUMAN      ELGVSTDVSPAR-------DEGSLRLCTDSLPETDDSLLCDAGTAISGGK-----AEGE-	1287
+sp|Q8NEZ4|KMT2C_HUMAN      H----NTVSPPS-----------------------------WSPDISEGR------EIF-	869
+sp|Q9UPS6|SET1B_HUMAN      ---------------------------------------------------------MEN	3
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	0
+sp|Q03164|KMT2A_HUMAN      EEGNVSAPGPESKQATTPASRKSSKQV--SQPALVIPPQ-----PPTTGP-P--RKEVPK	1321
+sp|Q9UMN6|KMT2B_HUMAN      REEVVAHPGPEEQDSLLQ--RKSARRCVKQRPSYDIFEDSDD--SEPGGP-PAPRRRTP-	1108
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------KGSA---PEIDPSSDGSNFGWETKIKAWMDRYEEAN---NNQYSEG----VQRE	299
+sp|O14686|KMT2D_HUMAN      ------KGRR----RSSP------ARSR-IKQGRSSSFPGRRRPRGGAHGGR-----GRG	1325
+sp|Q8NEZ4|KMT2C_HUMAN      ------KPRQ----LPGS------AIWS-IKVGRGSGFPGKRRPRGAGLSGR----GGRG	908
+sp|Q9UPS6|SET1B_HUMAN      SHPP-HHHHQQPPPQPGPSGERRNHHWRSYKLMIDPA-----------------------	39
+sp|O15047|SET1A_HUMAN      ----------MDQEGGGDGQKAPSFQWRNYKLIVDPALDPA-------------------	31
+sp|Q03164|KMT2A_HUMAN      TTPSEPKKKQPPPPESGPEQSKQK------KVAPRPSIPVKQKPKEKEKPPPVNKQENAG	1375
+sp|Q9UMN6|KMT2B_HUMAN      ------RENELPLPEP-EEQSRPR------KPTLQPVLQLKARRRL---------DKDAL	1146
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      AQRIALRLGNGNDKKEMNKSDLNTNNLLFKPPVESHIQKNKKILKSAKDLPPDALIIEYR	359
+sp|O14686|KMT2D_HUMAN      ----RARLKSTASSIE----------TLVVADID-------SSPSKEEEEEDDDTMQNT-	1363
+sp|Q8NEZ4|KMT2C_HUMAN      ----RSKLKSGIG-------------AVVLPGVS-------TADISSNKDDEENSMHNT-	943
+sp|Q9UPS6|SET1B_HUMAN      -------LKKG--HHK----------LYRYDGQHFSLAMSSNRPVEIVEDPRVVGIWTK-	79
+sp|O15047|SET1A_HUMAN      -------LRRP--SQK----------VYRYDGVHFSVNDSKYIPVEDLQDPRC-HVRSK-	70
+sp|Q03164|KMT2A_HUMAN      TLNILSTLSNGNSSKQ----------KIPADGVH-------RIRVDFKEDCEAENVWEM-	1417
+sp|Q9UMN6|KMT2B_HUMAN      APGPFASFPNGWTGKQ----------K-SPDGVH-------RVRVDFKEDCDLENVWLM-	1187
+                                  :                                     .  .      :    
+
+sp|Q8IZD2|KMT2E_HUMAN      GKFMLREQFEANGYFFKRPYPFVLFYSKFHGLEMCVDARTFGNEARFIRRSCTPNAEVRH	419
+sp|O14686|KMT2D_HUMAN      ------------VVLFSNT------DKFVLMQDMCVVCGSFGRGAEGHLLACSQCSQCYH	1405
+sp|Q8NEZ4|KMT2C_HUMAN      ------------VVLFSSS------DKFTLNQDMCVVCGSFGQGAEGRLLACSQCGQCYH	985
+sp|Q9UPS6|SET1B_HUMAN      ------------NKELEL-------SVPK-----------FKI---DEFYVGPVP-----	101
+sp|O15047|SET1A_HUMAN      ------------NRDFSL-------PVPK-----------FKL---DEFYIGQIP-----	92
+sp|Q03164|KMT2A_HUMAN      ------------GGLGILT------SVPITPRVVCFLCASSGH---VEFVYCQVCCEPFH	1456
+sp|Q9UMN6|KMT2B_HUMAN      ------------GGLSVLT------SVPGGPPMVCLLCASKGL---HELVFCQVCCDPFH	1226
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      EI------------------------------QDG------------TIHLYIYS-----	432
+sp|O14686|KMT2D_HUMAN      PYCVNSKITK-VMLLKGWRCVECIVCEVCGQASDP-SRLLLCDDCDISYHTYCLDPPLLT	1463
+sp|Q8NEZ4|KMT2C_HUMAN      PYCVSIKITK-VVLSKGWRCLECTVCEACGKATDP-GRLLLCDDCDISYHTYCLDPPLQT	1043
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	101
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	92
+sp|Q03164|KMT2A_HUMAN      KFCLEENERPLEDQLENWCCRRCKFCHVCGRQHQATKQLLECNKCRNSYHPECLGPNYPT	1516
+sp|Q9UMN6|KMT2B_HUMAN      PFCLEEAERPLPQHHDTWCCRRCKFCHVCGRKGRGSKHLLECERCRHAYHPACLGPSYPT	1286
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      -------------------IHSIPKGTEITIAFDFDYGNCKYKVDCACLK-ENPECPVLK	472
+sp|O14686|KMT2D_HUMAN      V---PKGGWKCKWCVSCMQCGAASPG--FHCEWQNSYTHCG---PCASLV----TCPICH	1511
+sp|Q8NEZ4|KMT2C_HUMAN      V---PKGGWKCKWCVWCRHCGATSAG--LRCEWQNNYTQCA---PCASLS----SCPVCY	1091
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	101
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	92
+sp|Q03164|KMT2A_HUMAN      KPTKKKKVWICTKCVRCKSCGSTTPGKGWDAQWSHDFSLCH---DCAKLFAKGNFCPLCD	1573
+sp|Q9UMN6|KMT2B_HUMAN      RATRKRRHWICSACVRCKSCGA-TPGKNWDVEWSGDYSLCP---RCTQLYEKGNYCPICT	1342
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      RSSESMEN---INSGYETRRKKGKKDKDISKEK----DTQNQNITLDCEGTTNKMKSPET	525
+sp|O14686|KMT2D_HUMAN      APYVEE---DLLIQCRHCERWMHAGCESLFTEDDVE---QAADEGFDCVSCQPYVVKPVA	1565
+sp|Q8NEZ4|KMT2C_HUMAN      RNYREE---DLILQCRQCDRWMHAVCQNLNTEEEVE---NVADIGFDCSMCRPYMPASNV	1145
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	101
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	92
+sp|Q03164|KMT2A_HUMAN      KCYDDDDYESKMMQCGKCDRWVHSKCENLSDEMYEILSNLPESVAYTCVNCTERHPAEWR	1633
+sp|Q9UMN6|KMT2B_HUMAN      RCYEDNDYESKMMQCAQCDHWVHAKCEGLSDEDYEILSGLPDSVLYTCGPCAGAAQPRWR	1402
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      KQRKLSPLRLSVSNNQEPDFIDDIEEKTPISNEVEMESEEQIAERKRKMTREERKMEAIL	585
+sp|O14686|KMT2D_HUMAN      PVAP----------P-------ELVPMKVKEPEPQYFRFEGVWLTETGMA--------LL	1600
+sp|Q8NEZ4|KMT2C_HUMAN      PSSD----------CCESSLVAQIVTKVKELDPPKTYTQDGVCLTESGMT--------QL	1187
+sp|Q9UPS6|SET1B_HUMAN      -------------------------------------------PKQVTFA--------K-	109
+sp|O15047|SET1A_HUMAN      -------------------------------------------LKEVTFA--------R-	100
+sp|Q03164|KMT2A_HUMAN      LA-----------------LEKEL----------------QISLKQVLTA--------LL	1652
+sp|Q9UMN6|KMT2B_HUMAN      EA-----------------LSGAL----------------QGGLRQVLQG--------LL	1421
+                                                                        :              
+
+sp|Q8IZD2|KMT2E_HUMAN      QAFA--RLEKREKRREQALERISTAK---------------------------TE---VK	613
+sp|O14686|KMT2D_HUMAN      RNLTMSPLHKRRQR-RGRLGLPGEAGLEGSEPSDALGPDDKKDGDLDTDELLKGEGGVEH	1659
+sp|Q8NEZ4|KMT2C_HUMAN      QSLTVTVPRRKRSKPKLKLKIINQNSVAVLQTPPDIQSEHSRDGEMDDS------REGEL	1241
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	109
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	100
+sp|Q03164|KMT2A_HUMAN      NSRTTSHLLRYRQA----------------AKPPDLNPETEES-----------------	1679
+sp|Q9UMN6|KMT2B_HUMAN      SSKVVGPLLLCTQC----------------GP----------------------------	1437
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      TECKDTQ----IVSDAEVIQEQAKEENASKPTPAKVNRTKQRKSFSRSRTHIGQ----QR	665
+sp|O14686|KMT2D_HUMAN      MECEIKLEG-------PVSP----DVEPGKEETEESKKR-KRKPY---RPGIGGFMVRQR	1704
+sp|Q8NEZ4|KMT2C_HUMAN      MDCDGKSESSPER---EAVD----DETKGVEGTDGVKKR-KRKPY---RPGIGGFMVRQR	1290
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	109
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	100
+sp|Q03164|KMT2A_HUMAN      ----IPSRSSPEGPDPPVLTEVSKQDDQQPLDLEGVKRK-MDQGN---YTSVLEFS----	1727
+sp|Q9UMN6|KMT2B_HUMAN      --------------D-------GKQLHPGPCGLQAVSQR-FEDGH---YKSVHSFM----	1468
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      RRHRTVSM-----CSDIQPSSPDIEVTSQQNDIENTVLTIEPETETALAEIITETEVPAL	720
+sp|O14686|KMT2D_HUMAN      KSHTRTKKGPAAQAEVLSG-----------DGQPDEVIPADLPAEGAVEQSLAEGDEKKK	1753
+sp|Q8NEZ4|KMT2C_HUMAN      SRTGQGKTKRSVIRKDSSGS-ISEQLPCR-DDGWSEQLPDTLVDES---VSVTES-TEKI	1344
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	109
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	100
+sp|Q03164|KMT2A_HUMAN      --------------DDIVKI-IQAAINS------------------------DGG-QPEI	1747
+sp|Q9UMN6|KMT2B_HUMAN      --------------EDMVGI-LMRH--S------------------------EEG-ETPD	1486
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      --------NKCPTKYPKTK-----------------------------------------	731
+sp|O14686|KMT2D_HUMAN      QQRRGRKKSKLEDMFPAYLQEAFFGKELLD---LSRKALFAVGVGR--------------	1796
+sp|Q8NEZ4|KMT2C_HUMAN      KKRYRKRKNKLEETFPAYLQEAFFGKDLLD---TSRQSKISLDNLSEDGAQLLYKTNMNT	1401
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	109
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	100
+sp|Q03164|KMT2A_HUMAN      K----KANSMVKSFFIRQMER-VFPWFSVKKSRFWEPNKVSSNSG-----------MLPN	1791
+sp|Q9UMN6|KMT2B_HUMAN      R----RAGGQMKGLLLKLLES-AFGWFDAHDPKYWRRSTR-LPNG-----------VLPN	1529
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      -------KHLVNEWLSEKNEKTGKPSD-GLSERPLRITTDPEVLATQLNSLPGLTYSPH-	782
+sp|O14686|KMT2D_HUMAN      ----PSFGL-----GTPKAKGDGGSERKELPTS-QKGDDGPDIADEESRGLEGKADTPGP	1846
+sp|Q8NEZ4|KMT2C_HUMAN      GFLDPSLDPLLSSSSAPTKSGTHGPADDPLADISEVLNTDDDILGIISDDLAKSVD----	1457
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	109
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	100
+sp|Q03164|KMT2A_HUMAN      AVLPPSLDHNYAQWQERE----------E-----NSHTEQPPLM-------KKIIPAPKP	1829
+sp|Q9UMN6|KMT2B_HUMAN      AVLPPSLDHVYAQWRQQE----------P-----ETPESGQP------------------	1556
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ----VYS--TPKHYIRFTSPFLSEKRRRKEPTENISGSCKKRWLKQALEEENSAILHRFN	836
+sp|O14686|KMT2D_HUMAN      EDGGVKASPVPSDPEK-------------------PGTPGEGMLSSDLD-----------	1876
+sp|Q8NEZ4|KMT2C_HUMAN      ---HSDIGPVTDDPSSLPQPNVNQSS------RPLSEEQLDGILSPELD-----------	1497
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	109
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	100
+sp|Q03164|KMT2A_HUMAN      KGPGEPDSPTPLHPPT------------------------PPILSTDRS-----------	1854
+sp|Q9UMN6|KMT2B_HUMAN      --PGDPSAA---------------------------------F-----------------	1564
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      SPCQERSRSPAVNGENKSPLLLNDSCSLPDLTTPLKKRRFYQLLDSVYSETS-TPTPSPY	895
+sp|O14686|KMT2D_HUMAN      -------------RIST--------EELPKMES----KDLQQLFKDVLGSEREQHLGCGT	1911
+sp|Q8NEZ4|KMT2C_HUMAN      -------------KMVTDGAILGKLYKIPELGG----KDVEDLFTAVLSPANTQPTPLPQ	1540
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	109
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	100
+sp|Q03164|KMT2A_HUMAN      -------------R--EDS-----------------------------------------	1858
+sp|Q9UMN6|KMT2B_HUMAN      -----------------QG-----------------------------------------	1566
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ATPTHTDITPMDPSFATPPRIKSDDETCRNGYKPIYSPVTPVTPGTPGNTMHFENISSPE	955
+sp|O14686|KMT2D_HUMAN      PG-LEG------------------------SRTPLQRPFL---------QGGLPLGNLPS	1937
+sp|Q8NEZ4|KMT2C_HUMAN      PP-PPTQLLPIH----------NQDAF---SRMPLMNGLI-------GSSPHLPHNSLPP	1579
+sp|Q9UPS6|SET1B_HUMAN      ---------------------------------------------------------LND	112
+sp|O15047|SET1A_HUMAN      ---------------------------------------------------------LND	103
+sp|Q03164|KMT2A_HUMAN      -----------------------------------------------------PELNPPP	1865
+sp|Q9UMN6|KMT2B_HUMAN      -----------------------------------------------------KDPAAFS	1573
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      SSPEIKRRTYSQEGYDRSSTML-TLGPF---RNSNLTELGLQEIKTIGYTSPRSRTEVNR	1011
+sp|O14686|KMT2D_HUMAN      SSPMDSYPGLCQSPFLDSRERGGFFSPEPGEPDSPWTGSG--------GTTPST--PTTP	1987
+sp|Q8NEZ4|KMT2C_HUMAN      GSGLGTFSAIAQSSYPDARDKNSAFNPMASDPNNSWTSS-------------------AP	1620
+sp|Q9UPS6|SET1B_HUMAN      NIRENFLRDMCKK-YGEVEEVE-----ILYNP-KTKKHLG--------IAKVV-----FA	152
+sp|O15047|SET1A_HUMAN      NVRETFLKDMCRK-YGEVEEVE-----ILLHP-RTRKHLG--------LARVL-----FT	143
+sp|Q03164|KMT2A_HUMAN      GIEDNRQCALCLT-YGDDSAND--AGRLLYIGQNEWTHVN--------CALWS-----AE	1909
+sp|Q9UMN6|KMT2B_HUMAN      HLEDPRQCALCLK-YGDADSKE--AGRLLYIGQNEWTHVN--------CAIWS-----AE	1617
+                                     .   :                     .                       
+
+sp|Q8IZD2|KMT2E_HUMAN      QCPGEKEPVSDLQLGLD----------------A-VEPTALHKTLETPAHDRAEPNSQLD	1054
+sp|O14686|KMT2D_HUMAN      TTEGEGDGLSYNQRSL-----QRWEKDEELGQLSTISP-VLYANINFPNLKQ-----DYP	2036
+sp|Q8NEZ4|KMT2C_HUMAN      TVEGENDTMSNAQRST-----LKWEKEEALGEMATVAP-VLYTNINFPNLKE-----EFP	1669
+sp|Q9UPS6|SET1B_HUMAN      TVRGAKDAVQHLHSTSVMGNIIHVELDTKGETR--MR---FYEL----LVTG-----RYT	198
+sp|O15047|SET1A_HUMAN      STRGAKETVKNLHLTSVMGNIIHAQLDIKGQQR--MK---YYEL----IVNG-----SYT	189
+sp|Q03164|KMT2A_HUMAN      VFEDDDGSLKNVHMAVIRGKQLRCEFCQKPGAT--VG---CCLT----SCTS-----NYH	1955
+sp|Q9UMN6|KMT2B_HUMAN      VFEENDGSLKNVHAAVARGRQMRCELCLKPGAT--VG---CCLS----SCLS-----NFH	1663
+                                   :.  :                      :                        
+
+sp|Q8IZD2|KMT2E_HUMAN      STHSGRGTMYSSWVKSPDRTGVNFSVNSNLRDLTPSHQLEVGGGFRISESKCLMQDDTRG	1114
+sp|O14686|KMT2D_HUMAN      DWSSRCKQIMKLWRKVPAA-----------------------------------------	2055
+sp|Q8NEZ4|KMT2C_HUMAN      DWTTRVKQIAKLWRKASSQ-----------------------------------------	1688
+sp|Q9UPS6|SET1B_HUMAN      P-----------------------------------------------------------	199
+sp|O15047|SET1A_HUMAN      P-----------------------------------------------------------	190
+sp|Q03164|KMT2A_HUMAN      FMCSRAKNC------VFLD-----------------------------------------	1968
+sp|Q9UMN6|KMT2B_HUMAN      FMCARASYC------IFQD-----------------------------------------	1676
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      MFMETTVFCTSEDGLVSGFGRTV----NDNLID-----GNCTP----QNP----P----Q	1153
+sp|O14686|KMT2D_HUMAN      ---DKAPYLQKAKDNRAAHRINKVQKQAESQINKQTKVGDIAR--KTDRP----------	2100
+sp|Q8NEZ4|KMT2C_HUMAN      ---ERAPYVQKARDNRAALRINKVQMSNDSMKRQQQQ-DSIDPSSRIDSELFKDPLKQRE	1744
+sp|Q9UPS6|SET1B_HUMAN      -------------------QTL--------------PVGELDA----VSPIVNET-----	217
+sp|O15047|SET1A_HUMAN      -------------------QTV--------------PTGGKAL----SEKFQGSG-----	208
+sp|Q03164|KMT2A_HUMAN      ---DKKVYCQRHRDLIKGE-VV--------------PENGFEV----FRRVFVDF-----	2001
+sp|Q9UMN6|KMT2B_HUMAN      ---DKKVFCQKHTDLLDGKEIV--------------NPDGFDV----LRRVYVDF-----	1710
+                                                                 .                     
+
+sp|Q8IZD2|KMT2E_HUMAN      KKKVSLLEYRKRQREARK-------------------------SGSKTE-NFPLI-SVSP	1186
+sp|O14686|KMT2D_HUMAN      -----ALHLR------------IP--------------PQPGALGSPPPAAAPTIFIGSP	2129
+sp|Q8NEZ4|KMT2C_HUMAN      SEHEQEWKFRQQMRQKSKQQAKIEATQKLEQVKNEQQQQQQQQFGSQH----LLVQSGSD	1800
+sp|Q9UPS6|SET1B_HUMAN      -----------------------------------------------------------L	218
+sp|O15047|SET1A_HUMAN      -----------------------------------------------------------A	209
+sp|Q03164|KMT2A_HUMAN      -----------------------------------------------------------E	2002
+sp|Q9UMN6|KMT2B_HUMAN      -----------------------------------------------------------E	1711
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      HASGSLSNNGDGCA-----------SSNDNGEQVDHTASLPLPTPATVYNATSEETSNNC	1235
+sp|O14686|KMT2D_HUMAN      TTPAGLSTSADGFLKPP--AG-SVPGPDSPGELFL---KLPPQVPAQVPSQDPFGLAPAY	2183
+sp|Q8NEZ4|KMT2C_HUMAN      TPSSGIQS----PLTPQPGNGNMSPAQSFHKELFT---KQPPSTPTSTSSDDVFVKPQAP	1853
+sp|Q9UPS6|SET1B_HUMAN      QLSDALKRLKDGGLSAGCGSGSSSVTPNSGGTPFS---QDTAYSSCRLDTPNSYGQ----	271
+sp|O15047|SET1A_HUMAN      ATETAESRRRSSSDTAAYPAGTTAVGTPGNGTPCS---QDTSFSSSRQDTPSSFGQFT--	264
+sp|Q03164|KMT2A_HUMAN      GI--SLRRKFLNGL-----------------EPEN---IHMMIGSMTIDCL---GILN--	2035
+sp|Q9UMN6|KMT2B_HUMAN      GI--NFKRKFLTGL-----------------EPDA---INVLIGSIRIDSL---GTLS--	1744
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      PVKDATASEKNEPEVQWTASTSVEQVRERSYQRALLLSDHRKDKDSGGESPCVSCSPSHV	1295
+sp|O14686|KMT2D_HUMAN      PLE---------PRF------P-------------------------TAPPTYPPYPSPT	2203
+sp|Q8NEZ4|KMT2C_HUMAN      PPPPAPSRIPIQDSL------SQAQTSQPP--SPQVFSPGS---SNSRPPSPMDPYAKMV	1902
+sp|Q9UPS6|SET1B_HUMAN      -------GTPLTPRL------GT----------------P---------FSQDSSYSSRQ	293
+sp|O15047|SET1A_HUMAN      PQSSQ--GTPYTSRG------ST----------------P---------YSQDSAYSSST	291
+sp|Q03164|KMT2A_HUMAN      DLSDC--EDKLFP---------I----------------G---------YQCSRVYWSTT	2059
+sp|Q9UMN6|KMT2B_HUMAN      DLSDC--EGRLFP---------I----------------G---------YQCSRLYWSTV	1768
+                                                                                    .  
+
+sp|Q8IZD2|KMT2E_HUMAN      QS---SPSSHSNHIPQLQAKGPVPSFSELMEDPDPENPEPTTTNECPSPD----------	1342
+sp|O14686|KMT2D_HUMAN      GAPAQPPMLGASSRPGAGQPGEFHTTPPGTPRHQPSTPDPFLKPRCPSLDNLAVPESPGV	2263
+sp|Q8NEZ4|KMT2C_HUMAN      GTPRPPPVGHSFSRRNSAAPVE----------------------NCTPLSSVSRPLQMNE	1940
+sp|Q9UPS6|SET1B_HUMAN      PTPS------------------------------------YLFSQDPAVTFKARRHESKF	317
+sp|O15047|SET1A_HUMAN      ----------------------------------------------TSTSFKPRRSENSY	305
+sp|Q03164|KMT2A_HUMAN      DARK------------------------------------RCVYTCKIVECRPPVVEPDI	2083
+sp|Q9UMN6|KMT2B_HUMAN      DARR------------------------------------RCWYRCRILEYRPWGPREEP	1792
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      -----------------TSQNTCKSPPKMSKPGSPGSVIPAQAHGKI---FTKPDPQW-D	1381
+sp|O14686|KMT2D_HUMAN      G--------------GGKASEPLLSPPPFGESRKALEVKKEE-LGASSPSYGPPNLGFVD	2308
+sp|Q8NEZ4|KMT2C_HUMAN      TTANRPSPVRDLCSSSTTNNDPYAKPPDTPRP-----VM---------TDQFPKSLGLSR	1986
+sp|Q9UPS6|SET1B_HUMAN      T-------------------DA------YNRRHEHHYVHNS-------------------	333
+sp|O15047|SET1A_HUMAN      Q-------------------DA------FSRRHFSASSAST-------------------	321
+sp|Q03164|KMT2A_HUMAN      ----------------------------------NSTVEHD-------------------	2090
+sp|Q9UMN6|KMT2B_HUMAN      ----------------------------------AHLEAAE-------------------	1799
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      STVSA-SEAENGVHLKTELQQKQLSNNNQALSKNHPPQTHVRNSSEQLSQKLPSVPTKLH	1440
+sp|O14686|KMT2D_HUMAN      SPSSG--THLGGLELK-----------------------------------TPDV-----	2326
+sp|Q8NEZ4|KMT2C_HUMAN      SPVVSEQTAKGPIAAGTSDHFTKPSPRADVFQ----------------RQRIPDSYARPL	2030
+sp|Q9UPS6|SET1B_HUMAN      -------PAVTAVAGA--------------------------------------------	342
+sp|O15047|SET1A_HUMAN      -------TASTAIAAT--------------------------------------------	330
+sp|Q03164|KMT2A_HUMAN      -------E-NRTIAH---------------------------------------------	2097
+sp|Q9UMN6|KMT2B_HUMAN      -------E-NQTIVH---------------------------------------------	1806
+                                       :                                               
+
+sp|Q8IZD2|KMT2E_HUMAN      CPPSPHLENPPKSSTPHTPVQHGYLSPKPPSQQLGSPYRPHHSQSPQVGTPQRE-P-QRN	1498
+sp|O14686|KMT2D_HUMAN      -----------------------FKAPLTPRASQVEPQ------SPGLGLRPQEPPPAQA	2357
+sp|Q8NEZ4|KMT2C_HUMAN      LTPAPLDSGPGP-----------FKTPMQPPPSSQDPYGSVSQASRRLSVDPYERP---A	2076
+sp|Q9UPS6|SET1B_HUMAN      -TAAFRGSSDLP-----------FGA---VGGT-----------GGSSG--------PPF	368
+sp|O15047|SET1A_HUMAN      -TAATASSSASS-----------SSLSSSSSSS-----------SSSSS--------SQF	359
+sp|Q03164|KMT2A_HUMAN      --------SPTS-----------FTES--SSKE-----------SQ-NT--------AEI	2116
+sp|Q9UMN6|KMT2B_HUMAN      --------SPAP-----------SSEP--PGGE-----------DPPLD--------TDV	1826
+                                                                       .               
+
+sp|Q8IZD2|KMT2E_HUMAN      FYPAAQNLPANTQQATSGTLFTQTPSGQSSATYSQFNQQSLNSTAPPPPPPPPPSSSYYQ	1558
+sp|O14686|KMT2D_HUMAN      LAPSPPSHPDIFR------------PGSYTDPYAQ-------PPLTPRPQPPPPESCCAL	2398
+sp|Q8NEZ4|KMT2C_HUMAN      L---TPRPIDNFS------------HNQSNDPYSQ-------PPLTPHPAVNES---FAH	2111
+sp|Q9UPS6|SET1B_HUMAN      K--AQPQDSATFA------------H-------------------TPPPAQATPAPGFKS	395
+sp|O15047|SET1A_HUMAN      R--SSD----------------------------------------------ANYPAYYE	371
+sp|Q03164|KMT2A_HUMAN      ISPPSPDRPPH---------------------------------------SQTSGSCYY-	2136
+sp|Q9UMN6|KMT2B_HUMAN      LVPGAPERHSPIQ------------N-------------------LDPPLRPDSGSAPPP	1855
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      NQQPSANFQNYNQLKGSLSQQTVFTSGPNQALPGTTSQQTVPGHHVTP-----GHFLPSQ	1613
+sp|O14686|KMT2D_HUMAN      PP---R----------S------LPSDPFSRVPASPQSQSSSQSPLTPRPLSAEAFCPSP	2439
+sp|Q8NEZ4|KMT2C_HUMAN      PS---RAFSQPGTISRP------TSQDPYSQPPG------------TPRPVVDS-YSQSS	2149
+sp|Q9UPS6|SET1B_HUMAN      AF---SPYQTPVAHFPP------PPEEPTA------------------------------	416
+sp|O15047|SET1A_HUMAN      SW---NRYQRHTS-YP--------PRRATREEPP--------------------------	393
+sp|Q03164|KMT2A_HUMAN      -H---VISKVPR--IRT------PSYSPTQRSPG--------------------------	2158
+sp|Q9UMN6|KMT2B_HUMAN      AP---RSFSGAR--IKV------PNYSPSRRPLG--------------------------	1878
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      NPTIHHQTAAAVVPP--------------PPPPPPAPGPHLVQQPNSHQQH------SVA	1653
+sp|O14686|KMT2D_HUMAN      VTPRFQSPDPYSRPPSRPQ--SRDPFAPLHKPPRPQPPEVAFKAGSLAHTSLGAGGFPAA	2497
+sp|Q8NEZ4|KMT2C_HUMAN      -GTARSNTDPYSQPPGTPRPTTVDPYSQQPQTPRPSTQTDLFVTPVTNQRH----SDPYA	2204
+sp|Q9UPS6|SET1B_HUMAN      --------------------------------------TAAFGA----------------	422
+sp|O15047|SET1A_HUMAN      --------------------------------------GAPFAE----------------	399
+sp|Q03164|KMT2A_HUMAN      -----------------------------------------CR-----------------	2160
+sp|Q9UMN6|KMT2B_HUMAN      --------------------------------------GVSFG-----------------	1883
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      HVVGP---VHA----------------------------VTPGSHIHSQTAGHHL--PPP	1680
+sp|O14686|KMT2D_HUMAN      LPAGPAGELHAKVPSGQPPNFVRSPGTGAFVGT----PSPM--RFTFPQAVGEPSLKPP-	2550
+sp|Q8NEZ4|KMT2C_HUMAN      HPPGTP-RPGISVPYSQPPATPRPRISEGFTRSSMTRPVLMPNQDPFLQAA--QNRGPA-	2260
+sp|Q9UPS6|SET1B_HUMAN      ------------------------RDSGEFR----RAPAPPPLP------PAEPLAKEKP	448
+sp|O15047|SET1A_HUMAN      ------------------------NTAERFPPSYTSYLPPEPSR------PTDQDYRPPA	429
+sp|Q03164|KMT2A_HUMAN      ---------------------------------------------------------P--	2161
+sp|Q9UMN6|KMT2B_HUMAN      ---------------------------------------------------------P--	1884
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      PPPPGPAPH-----HHPPPHPSTG---------------------------LQGLQAQHQ	1708
+sp|O14686|KMT2D_HUMAN      VPQPGLPPPHGIN-SHFGPGPTLGKPQSTNYT-VATGNFHPSGSPLGPSSGSTG--ESYG	2606
+sp|Q8NEZ4|KMT2C_HUMAN      LPGPLVRPPDTCSQTPRPPGPGLSDTFSRVSPSAARDPY--DQSPMTPRS--QS--DSFG	2314
+sp|Q9UPS6|SET1B_HUMAN      GTPPGPPPPDTNS-MELG-----G------RPT-----FGWSPEP---------------	476
+sp|O15047|SET1A_HUMAN      SEAPPPEPPEPGG-GGGG-----G------GPSPEREEVRTSPRP---------------	462
+sp|Q03164|KMT2A_HUMAN      --------------LPSA-----G------SPTPTTHEIVTVGDPLLSSGLRSIGSRRHS	2196
+sp|Q9UMN6|KMT2B_HUMAN      --------------LPSP-----G------SPSSLTHHIPTVGDPDFPAPPRRSR----R	1915
+                                                  .                                    
+
+sp|Q8IZD2|KMT2E_HUMAN      H-VVNSAPP-PPPPPPPSSVLASGHHTTSAQALHHPPHQGPPLFP---------------	1751
+sp|O14686|KMT2D_HUMAN      LSPLRP-PSVLPPPAPDGSLPYLSHGASQRSGITSPVEKREDPGTGMGSSLATAELPGT-	2664
+sp|Q8NEZ4|KMT2C_HUMAN      TSQTAHDVADQPRPGSEGSFCASS---------NSPMHSQGQQFSG------VSQLPGPV	2359
+sp|Q9UPS6|SET1B_HUMAN      ---CD--SP------------------------------GT---------------PTL-	485
+sp|O15047|SET1A_HUMAN      ---ASPARS------------------------------GS---------------PAPE	474
+sp|Q03164|KMT2A_HUMAN      TSSLSPQRS--------------------KLRIMSPMRTGNTYSRNNVSSVSTTGTATDL	2236
+sp|Q9UMN6|KMT2B_HUMAN      PSPLAPRPP--------------------P------------------------------	1925
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      -SS---------------------------------------------------------	1753
+sp|O14686|KMT2D_HUMAN      ------QDPGMSGLSQTELEKQRQRQRLRELLIRQQIQRNTLRQEKET--AAAAAGAVGP	2716
+sp|Q8NEZ4|KMT2C_HUMAN      PTSGVTDTQNTVNMAQADTEKLRQRQKLREIILQQQQQKKIAGRQEKGSQDSPAVPHPGP	2419
+sp|Q9UPS6|SET1B_HUMAN      ESS---------------------------------------------------------	488
+sp|O15047|SET1A_HUMAN      TTN---------------------------------------------------------	477
+sp|Q03164|KMT2A_HUMAN      ESS---------------------------------------------------------	2239
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	1925
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      -----AH----------PTVPPYPSQATHH------------TTLGPGPQHQPSGTGPHC	1786
+sp|O14686|KMT2D_HUMAN      PGSWGAEPSSPAFEQLSRGQTPFAGTQDKSSLVGLPPSKLSGPILGP--GSFPSDDRLSR	2774
+sp|Q8NEZ4|KMT2C_HUMAN      LQHWQPENVNQAFTR---PPPPYPGNIRSPVA----------PPLGPRYAVFPKDQRGPY	2466
+sp|Q9UPS6|SET1B_HUMAN      -------------------------------------------PAGPEKPHDSLDSRIEM	505
+sp|O15047|SET1A_HUMAN      -------------------------------------------ESVPFAQHSSLDSRIEM	494
+sp|Q03164|KMT2A_HUMAN      -------------------------------------AKVVDHVLGPLNSSTSLGQNTST	2262
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	1925
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      PLPVTGPHLQPQGPNSIPTPTASGFCPHPGSVALPHGVQGPQQASPVPGQIPIHRAQVPP	1846
+sp|O14686|KMT2D_HUMAN      P-------------PPPATPSSMDVNSRQ----LVGGSQAFYQRAPYPGSLPLQQQQQQL	2817
+sp|Q8NEZ4|KMT2C_HUMAN      P-------------PDV---ASMGMRPHGFRFGFPGGSH---------GTMPSQERFLVP	2501
+sp|Q9UPS6|SET1B_HUMAN      L-------------LKE----QRT------KLLFLREPDS--------------------	522
+sp|O15047|SET1A_HUMAN      L-------------LKE----QRS------KFSFLASDTE--------------------	511
+sp|Q03164|KMT2A_HUMAN      S-------------SNL----QRTVVTVGNKNSHLDGSSS--------------------	2285
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	1925
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      TFQNNYHG----------------------------------------------SGWH--	1858
+sp|O14686|KMT2D_HUMAN      WQQQQ-ATAATSMRFAMSA-------------------RFPSTPGPELGRQALGSPLAGI	2857
+sp|Q8NEZ4|KMT2C_HUMAN      PQQIQGSGVSPQLRRSVSVDMPRPLNNSQMNNPVGLPQHFSPQSLPVQQHNILGQAYIEL	2561
+sp|Q9UPS6|SET1B_HUMAN      ------------------D----------------------------TELQMEGSPISSS	536
+sp|O15047|SET1A_HUMAN      ------------------E----------------------------EEE---NSSMVLG	522
+sp|Q03164|KMT2A_HUMAN      ------------------S----------------------------EMKQSSASDLVSK	2299
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	1925
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      STRLPGPGEPVPGPAGPAQFIELRHNVQKGLGPGGTPFPGQGPPQRPRFY----------	2907
+sp|Q8NEZ4|KMT2C_HUMAN      RHRAPDGRQRLPFSAPPGSVVEASSNLRHGNFIPRPDFPGP-------------------	2602
+sp|Q9UPS6|SET1B_HUMAN      SS--------QLSP-----------LAPFGT-NSQPGFRGPTPPSSR-------------	563
+sp|O15047|SET1A_HUMAN      AR--------DTGS-----------EVPSGS-GH-----GP--CTPP-------------	542
+sp|Q03164|KMT2A_HUMAN      SSSLKGEKTKVLSS-----------KSSEGS-AHNVAYPGIPKLAPQVHNTTSRELNVSK	2347
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	1925
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      ------PVSEDPHRLAPEGLRGLAVSGLPPQKPSAPPA-------PELNNSLHPTPHT-K	2953
+sp|Q8NEZ4|KMT2C_HUMAN      -------RHTDPMRRPPQGLP--------NQLPVHPDLEQVPPSQQEQGHSVHSSSMVMR	2647
+sp|Q9UPS6|SET1B_HUMAN      ------PSSTGLEDISPTPLPD-------SDEDEELDLGLGPRP----------------	594
+sp|O15047|SET1A_HUMAN      ------PAPANFEDVAPTGSG---------------------------------------	557
+sp|Q03164|KMT2A_HUMAN      IGSFAEPSSVSFSSKEALSFPHLHLRGQRNDRDQHTDSTQSANS----------------	2391
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	1925
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      GPTLPTGLELVNRPPSSTELGRP--NPLAL-------EAGKLPCEDPELDD----DF-DA	2999
+sp|Q8NEZ4|KMT2C_HUMAN      TLNHPLGGEFSEAPLSTSVPSETTSDNLQITTQPSDGLEEKLDSDDPSVKELDVKDLEGV	2707
+sp|Q9UPS6|SET1B_HUMAN      -----------------------------------------PP----EPGPPD-------	602
+sp|O15047|SET1A_HUMAN      -----------------------------------------------EPGAT--------	562
+sp|Q03164|KMT2A_HUMAN      -----------------------------------------SPDEDTEVKTLK-------	2403
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	1925
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      HKALEDDEELAHLGLGVDVAKGDDELGTLENLETNDPHLDDLLNGDEFDLLAYTDPELDT	3059
+sp|Q8NEZ4|KMT2C_HUMAN      EVKDLDDEDLENLNLDTED-GKVVELDTLDNLETNDPNLDDLLRSGEFDIIAYTDPELDM	2766
+sp|Q9UPS6|SET1B_HUMAN      --------------------------------------PAGLLSQ---------------	609
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	562
+sp|Q03164|KMT2A_HUMAN      --------------------------------------LSGMSNR---------------	2410
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	1925
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      GDKKDIFNEHLRLVESANE---KAEREALLR-------GVEPGPLGPEERPPPAADASEP	3109
+sp|Q8NEZ4|KMT2C_HUMAN      GDKKSMFNEELDLPIDDKL---DNQC----V-------SVEPKKKEQENKTLVLSDKHSP	2812
+sp|Q9UPS6|SET1B_HUMAN      --TAEVALDLVGDR-------------------TPTSEKMDEGQQSS-------------	635
+sp|O15047|SET1A_HUMAN      -----------RES-------------------PKANGQNQASPCSS-------------	579
+sp|Q03164|KMT2A_HUMAN      --S-SIINEHMGSSSRDRRQKGKKSCKETFKEKHSSKSFLEPGQVTT-------------	2454
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------SRWA--------------------	1929
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      RL-ASVLPEVKPKV-----------------EEGGRHPSPCQFTIATPKVEPAPAANSLG	3151
+sp|Q8NEZ4|KMT2C_HUMAN      QKKSTVTNEVKTEVLSPNSKVESKCETEKNDENKDNVDTPCSQASAHSDLNDGE-----K	2867
+sp|Q9UPS6|SET1B_HUMAN      GEDMEISDDEMPS----APITSADCPKPMVVTPGA-------AAVAAPSVL----APTLP	680
+sp|O15047|SET1A_HUMAN      GDDMEISDDDRGG----SPP---------------------------------------P	596
+sp|Q03164|KMT2A_HUMAN      GEEGNLKPEFMDEVLTPEYMGQRPCNNVSSDKIG---------------------DKGLS	2493
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	1929
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      LGLKPGQ-SMMGS-----------RDTRMGTGPFSSSGHTAEKASFGAT-GGPPAHLLTP	3198
+sp|Q8NEZ4|KMT2C_HUMAN      TSLHPCDPDLFEK-----------RTNR-------------------ET-AGPSANVIQA	2896
+sp|Q9UPS6|SET1B_HUMAN      LPPPPGFPPLPPPP-----PPPPPQPGFPMPPPLPPPP-----------PPPPPAHPAVT	724
+sp|O15047|SET1A_HUMAN      APTPPQQPPPPPPP-----PPPP--PPYLASLPL----------------GYPPHQPAYL	633
+sp|Q03164|KMT2A_HUMAN      MPGVPKAPPMQVEGSAKELQAPRKRTVKVTLTPLKMENESQSKNALKESSPASPLQIEST	2553
+sp|Q9UMN6|KMT2B_HUMAN      ------SPPLKT---SPQLRVPPPTSVVTALTPTSGE-----------------------	1957
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      SP------------LSG--PGGSSLLEKFELESGALTLPGGPAASGDELDKMESSLVASE	3244
+sp|Q8NEZ4|KMT2C_HUMAN      STQLPAQDVINSCGITGSTPVLSSLLANEKSDNSDIRPSGSPPPP--TLPASPSNHV-SS	2953
+sp|Q9UPS6|SET1B_HUMAN      VP---PP------------------------PL--PAPPGVPPPP--------------I	741
+sp|O15047|SET1A_HUMAN      L----------------------------------PPRPDGPPPP--------------E	645
+sp|Q03164|KMT2A_HUMAN      SP---TE------------------------PISASENPGDGP-----------------	2569
+sp|Q9UMN6|KMT2B_HUMAN      -----------------------------------LAPP--GP-----------------	1963
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      LPLLIE-------DLLEHEK-------KELQKKQQLSAQLQPAQQQQQQQQQHSLLSAPG	3290
+sp|Q8NEZ4|KMT2C_HUMAN      LPPFIAPPGRVLDNAMNSNVTVVSRVNHVFSQGVQVNPGLIPGQ----STVNHSLGTG-K	3008
+sp|Q9UPS6|SET1B_HUMAN      LPPLPPFPPGLFPV-MQVDM----------SHVLGGQWGGMPMSF---QMQTQVLSRLM-	786
+sp|O15047|SET1A_HUMAN      YPPPPPPPPHIYDFVNSLEL----------MDRLGAQWGGMPMSF---QMQTQMLTRLH-	691
+sp|Q03164|KMT2A_HUMAN      --VAQPSPN-------NTSC----------QDSQSNNYQNLPVQD---R--NLMLPDGPK	2605
+sp|Q9UMN6|KMT2B_HUMAN      --APSPPPP-------ED---------------LGPDFEDMEVVS------------G--	1985
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      PAQAMSLPHEGSSPSLAGSQQQLSLGLAGARQPGLPQPLMPTQPPAHALQQRLAPSMAMV	3350
+sp|Q8NEZ4|KMT2C_HUMAN      PAT-----QTGPQTSQSG-----TSSMSGPQQLMIPQTLA--------QQNRERPL--L-	3047
+sp|Q9UPS6|SET1B_HUMAN      ---TGQ------------------------------------------------------	789
+sp|O15047|SET1A_HUMAN      ---QLR------------------------------------------------------	694
+sp|Q03164|KMT2A_HUMAN      PQEDGS------------------------------------------------------	2611
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	1985
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      SNQGHMLSGQHGGQAGLVPQQSSQPVLSQKPMGTMPPSMCMKPQQLAMQQQLANSFFPDT	3410
+sp|Q8NEZ4|KMT2C_HUMAN      --------------------LEEQPLLLQDLLDQERQEQQQQRQMQAMIRQRSEPFFPNI	3087
+sp|Q9UPS6|SET1B_HUMAN      ---------------------------------------GACPYPPFMAAAAAAASAGL-	809
+sp|O15047|SET1A_HUMAN      ---------------------------------------QGKGLIAAS-AGPPGGAFGE-	713
+sp|Q03164|KMT2A_HUMAN      ---------------------------------------FKRRYPRRSARARSNMFFGL-	2631
+sp|Q9UMN6|KMT2B_HUMAN      -------------------------------------------------LSAADLDFA--	1994
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      DLDKFAAEDIIDPIAKAKMVALKGIKKVMAQGSIGVAPGMNRQQVSLLAQRLSGGPSSDL	3470
+sp|Q8NEZ4|KMT2C_HUMAN      DFD-----AITDPIMKAKMVALKGINKVMAQNNLGMPPMVMS-RFPFMGQVVTGTQNSEG	3141
+sp|Q9UPS6|SET1B_HUMAN      ----------------------------------------QFVNLPP-----YRG---PF	821
+sp|O15047|SET1A_HUMAN      ----------------------------------------AFLPFPPPQEAAYGL---PY	730
+sp|Q03164|KMT2A_HUMAN      ----------------------------------------TP----LYGVRSYGEEDIPF	2647
+sp|Q9UMN6|KMT2B_HUMAN      ----------------------------------------AS----LLGTEPFQEEIVAA	2010
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      --QNHVAAGSG------------------------------------------------Q	3480
+sp|Q8NEZ4|KMT2C_HUMAN      --QNLGPQAIP-------------------------------------------------	3150
+sp|Q9UPS6|SET1B_HUMAN      SLSNSGP-GRGQH-----WPPLPKFDPS------------VPPP---GYMPRQEDPHKAT	860
+sp|O15047|SET1A_HUMAN      ALYAQGQEGRGAYSREAYHLPMPMAAEPLPSSSVSGEEARLPPREEAELAEGKTLPTAGT	790
+sp|Q03164|KMT2A_HUMAN      YSSSTGK-KRGKRSAE------------------------------------------GQ	2664
+sp|Q9UMN6|KMT2B_HUMAN      --GAMGS-SHG-----------------------------------------------GP	2020
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      ERSAGDPS---QPRPNPPTFAQGVINEADQRQYEEWLFHTQQLLQMQLKVLEEQIGVHRK	3537
+sp|Q8NEZ4|KMT2C_HUMAN      QDGSITHQ---ISRPNPPNFGPGFVNDSQRKQYEEWLQETQQLLQMQQKYLEEQIGAHRK	3207
+sp|Q9UPS6|SET1B_HUMAN      VDGVLLVVLKELKAIMKRDLNRKMVEVVAFRAFDEWWDKKERMAKASLTPVK--------	912
+sp|O15047|SET1A_HUMAN      VGRVLAMLVQEMKSIMQRDLNRKMVENVAFGAFDQWWESKEEKAKPFQNAAK--------	842
+sp|Q03164|KMT2A_HUMAN      VDGADDLSTSD-------------------------------------------------	2675
+sp|Q9UMN6|KMT2B_HUMAN      GDS---SEEES-------------------------------------------------	2028
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      SRKALCAKQRTAKKAGREFPEADAEKLKLVTEQQSKIQKQLDQVRKQQKEHTNLMAEYRN	3597
+sp|Q8NEZ4|KMT2C_HUMAN      SKKALSAKQRTAKKAGREFPEEDAEQLKHVTEQQSMVQKQLEQIRKQQKEHAELIEDYRI	3267
+sp|Q9UPS6|SET1B_HUMAN      --------------SG-EHKDEDRPKPK-DRI------------------ASCLLESW--	936
+sp|O15047|SET1A_HUMAN      --------------QQ-AK-EEDKEKTKLKEP------------------GLLSLVDW--	866
+sp|Q03164|KMT2A_HUMAN      ------------------------------------------------------------	2675
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	2028
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      KQQQQQQQQQQQQQQHSAVLALSPSQSPRLLTKLPGQLLPGHGLQPPQGPPGGQAGGLRL	3657
+sp|Q8NEZ4|KMT2C_HUMAN      KQQQQCAMAPP-------------------------TMMPSVQPQPPLIP-GA-------	3294
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------GK-GEGLGYEGL	947
+sp|O15047|SET1A_HUMAN      ------------------------------------------------AKSGGTTGIEAF	878
+sp|Q03164|KMT2A_HUMAN      ---------------------------------------------------EDDLYYYNF	2684
+sp|Q9UMN6|KMT2B_HUMAN      ---------------------------------------------------SPTSRYIHF	2037
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      TPGGMALPGQPGGPFLNTALAQQQQQQH-SGGAGSLAGPSGGFFPGNLA-LRSLGPDSRL	3715
+sp|Q8NEZ4|KMT2C_HUMAN      TPPTMS---QPTFPMVPQQLQHQQHTTVISGHTSPVRMPS--------------------	3331
+sp|Q9UPS6|SET1B_HUMAN      GL-GIG-------------------------LRGAIRLPSFKVKRKEPPDTTSSGDQKRL	981
+sp|O15047|SET1A_HUMAN      AF-GSG-------------------------LRGALRLPSFKVKRKEPSEISEASEEKRP	912
+sp|Q03164|KMT2A_HUMAN      TRTVIS-------------------------SGGEERLASHNLFREEEQ--------CDL	2711
+sp|Q9UMN6|KMT2B_HUMAN      PVTVVS-------------------------APGLA---------PSAT--------PGA	2055
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      LQERQLQLQQQRMQLAQKLQQQQQQQQQQQHLLGQVAIQQQQQQGPGVQTNQA--L-G--	3770
+sp|Q8NEZ4|KMT2C_HUMAN      --------------------------------------------LPGWQPNSA--P-AHL	3344
+sp|Q9UPS6|SET1B_HUMAN      RPSTS---------------------------------------VDEEDEESERERDRDM	1002
+sp|O15047|SET1A_HUMAN      RPSTP---------------------------------------AEEDEDDPEQEKEAGE	933
+sp|Q03164|KMT2A_HUMAN      PKISQ---------------------------------------LDGVDDGTESDTSVTA	2732
+sp|Q9UMN6|KMT2B_HUMAN      PRIEQ---------------------------------------LDGVDDGTDSEAEAVQ	2076
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      -PKPQGLMPPSSHQGLLVQQLSPQPPQGPQGMLGPAQVAVLQQQHPGALGP--------Q	3821
+sp|Q8NEZ4|KMT2C_HUMAN      PLNPPRIQPPIAQL--PIKTCTP---------------------APGTVSNANP----QS	3377
+sp|Q9UPS6|SET1B_HUMAN      ADTPCEL-AKRDPKG--------------VGVRRR-PARPLELDSGGEEDEKESLSASSS	1046
+sp|O15047|SET1A_HUMAN      PGRPGTKPPKRDEER--------------GKTQGK-HRKSFALDSEGEEASQE-------	971
+sp|Q03164|KMT2A_HUMAN      TTRKSSQIPKRNGKE--------------NGT------ENLKIDRPEDAGEKEHVTKSSV	2772
+sp|Q9UMN6|KMT2B_HUMAN      QPRGQGTPPSGPGV----------------------------------------------	2090
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      GPHRQVLMTQSRV-LSSPQ--------LA----QQGQGLMGHRLVTAQQQQQQQQHQQQG	3868
+sp|Q8NEZ4|KMT2C_HUMAN      GPPPRVEFDDNNP-FSESFQERERKERLREQQERQRIQLMQ--EVDRQRALQQRMEMEQH	3434
+sp|Q9UPS6|SET1B_HUMAN      SSASSSSGSSTTSPSSSASDKEEEQESTEEE---EEAEEEEEEEVPRSQ-----LS----	1094
+sp|O15047|SET1A_HUMAN      --------------SSS--EKDEEDD--E-E---DEEDEDREEAVDTTK-----------	998
+sp|Q03164|KMT2A_HUMAN      GHKNEPKMDNC---HSVSRVKTQGQDSLEAQ---LSS-LESSRRVHTSTPSDKNLL----	2821
+sp|Q9UMN6|KMT2B_HUMAN      -----------------VRA----------------------------------------	2093
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      SMAGLS----H--LQQSLMSHSGQPKL----------SAQPMGSLQQLQQQQQLQQQQQL	3912
+sp|Q8NEZ4|KMT2C_HUMAN      GMVGSEISSSRTSVSQIPFYSSDLPCD----------FMQPLGPLQQSPQHQQ-------	3477
+sp|Q9UPS6|SET1B_HUMAN      SSSTSSTSDKDDDDDDSDDRDESE-NDDEDTALSEA-SEKDEGDSDEEET----------	1142
+sp|O15047|SET1A_HUMAN      --KETEVSDGEDEESDSS----------SKCSLYAD----SDGENDST------------	1030
+sp|Q03164|KMT2A_HUMAN      DTYNTELLKSDSDNNNSDDCGNILPSDIMDFVLKNTPSMQALGESPESSSSELLN-----	2876
+sp|Q9UMN6|KMT2B_HUMAN      -----GVLGAA---GDRARPPEDLPSEIVDFVLKNLGGPGDGGAGPREE-----------	2134
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      QQQQQQQLQQQQQLQQQQLQQQQQQQQLQQQQQQQLQQQQQQLQQQQQQQQQQFQQQQQQ	3972
+sp|Q8NEZ4|KMT2C_HUMAN      --QM-GQVLQQQNIQQGSI---------------------------NSPSTQTFMQTNER	3507
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	1142
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	1030
+sp|Q03164|KMT2A_HUMAN      -------------LGEG-----------------------------------LGLDSNRE	2888
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	2134
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      QQMGLLNQSRTLLSPQQQ------------------------------------------	3990
+sp|Q8NEZ4|KMT2C_HUMAN      RQVGPP------------------------------------------------------	3513
+sp|Q9UPS6|SET1B_HUMAN      --VSIVT------SKAEATSSSES---SESSEFESS-------------SESSPSSSEDE	1178
+sp|O15047|SET1A_HUMAN      -------------SDSESSSSSSS---SSSSSSSSS-------------SSSSSSSS---	1058
+sp|Q03164|KMT2A_HUMAN      KDMGLFEVFSQQLPTTEPVDSSVSSSISAEEQFELPLELPSDLSVLTTRSPTVPSQNPSR	2948
+sp|Q9UMN6|KMT2B_HUMAN      -----------SLPPAPPLANG--------------------------------------	2145
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      --------------------------QQQQVALGPGMPAKPLQHFSSPGALGPTLLLTGK	4024
+sp|Q8NEZ4|KMT2C_HUMAN      -------------------------------SFVPDSPSIPV---GSPN-----------	3528
+sp|Q9UPS6|SET1B_HUMAN      EEVVAREEEEEEEEEEMVAEESMAS-------------------------AGPEDFEQDG	1213
+sp|O15047|SET1A_HUMAN      -ESSS-EDEE---EEERPA--ALPS-------------------------ASPP------	1080
+sp|Q03164|KMT2A_HUMAN      LAVISDSGE----KRVTITEKSVASSESDPALLSPGVDPTPEGH------MTPDHFIQGH	2998
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	2145
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      EQNT-VDPAVSSEATEGPSTHQGGPLAIGTTPESMATEPGEVKPSLSGDSQLLLVQPQPQ	4083
+sp|Q8NEZ4|KMT2C_HUMAN      ---------F-SSVKQGHGNLSGTSFQ-----------QSPVRPSFTP------------	3555
+sp|Q9UPS6|SET1B_HUMAN      EEAALAPGAPA-VDSLGMEEEVDIE-----------------TEAVAPEERP--------	1247
+sp|O15047|SET1A_HUMAN      ------------PRE------VPVP-----------------------------------	1087
+sp|Q03164|KMT2A_HUMAN      MDADHISSPPCGSVEQGHGNNQDLT-----------------RNSSTPGLQV--------	3033
+sp|Q9UMN6|KMT2B_HUMAN      -----------------SQPSQGL------------------------------------	2152
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      PQPSSLQLQPPLR---LPGQQQQQVSLLHTAGGGSHGQLGSGSSSEASSVPHLLAQPSVS	4140
+sp|Q8NEZ4|KMT2C_HUMAN      ----ALPAAPPVANSSLPCGQDS-------------------------------------	3574
+sp|Q9UPS6|SET1B_HUMAN      ---------------------------------------------------SMLDEPPLP	1256
+sp|O15047|SET1A_HUMAN      --------------------------------------------------------TPAP	1091
+sp|Q03164|KMT2A_HUMAN      ---------------------------------------------------P--VSPTVP	3040
+sp|Q9UMN6|KMT2B_HUMAN      ---------------------------------------------------T--ASPADP	2159
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      LGDQPGSMTQNLLGPQQPMLERPMQNNTGPQPPKPGPVLQSGQGLPGVGIMPTVGQLRAQ	4200
+sp|Q8NEZ4|KMT2C_HUMAN      -------------------------------------TITHGHSYPGSTQ--SLIQLY--	3593
+sp|Q9UPS6|SET1B_HUMAN      VG------------------------------------VEEPADSREPPEEPGLSQEGAM	1280
+sp|O15047|SET1A_HUMAN      VE------------------------------------VPVPERVAGSPVTPLPEQE---	1112
+sp|Q03164|KMT2A_HUMAN      --------------------------------------IQNQKYVPNSTDSPGPSQISNA	3062
+sp|Q9UMN6|KMT2B_HUMAN      --------------------------------------TRTFAWLPGA---PG---VRVL	2175
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      LQGVLAKNPQLRHLSPQQQQ------QLQA--------LLMQRQLQQSQAVRQTPPYQEP	4246
+sp|Q8NEZ4|KMT2C_HUMAN      -SDII----------PEEKG------KKKR-----------TRKKKRDDDAE---STKAP	3622
+sp|Q9UPS6|SET1B_HUMAN      L-----LSPEPPAK-EVEARPPL-SPERAPEHDLE-------------------------	1308
+sp|O15047|SET1A_HUMAN      ------ASPARPAG-PTEESPPS-A-----------------------------------	1129
+sp|Q03164|KMT2A_HUMAN      A-----VQTTPPHLKPATEKLIVVNQNMQPLYVLQTLPNGVTQKIQLTSSVSSTPSVMET	3117
+sp|Q9UMN6|KMT2B_HUMAN      S-----LGPAPEPPKPATSKIILVNKLGQVFVKMAGEGEPV-------------------	2211
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      GTQT-SPLQGLLGCQ----------------PQLGGFPGPQTGPLQELGAGPRPQGPPRL	4289
+sp|Q8NEZ4|KMT2C_HUMAN      STPH-SD-----------------------------ITAPPTPGISETTSTPAVSTP---	3649
+sp|Q9UPS6|SET1B_HUMAN      -VEPEPPMMLPLPLQPPLPP----------------------------------------	1327
+sp|O15047|SET1A_HUMAN      ------------PLRPPEPP----------------------------------------	1137
+sp|Q03164|KMT2A_HUMAN      NTSVLGPMGGGLTLTTGLNPSLPTSQSLFPSASKGLLPMSHHQHLHSFPAATQSSFPPNI	3177
+sp|Q9UMN6|KMT2B_HUMAN      -----PPPVKQPPLPPTISPTAPTSWTLPPGPLLGVLPVV--------------------	2246
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      PAPPGALSTGPVLGPVHPTPPPSSPQEPKRPSQLPSPSSQLPTEAQLPPTHPGTPKPQGP	4349
+sp|Q8NEZ4|KMT2C_HUMAN      -------------------------------SELPQQADQ----ESVEPVGPSTPNMAAG	3674
+sp|Q9UPS6|SET1B_HUMAN      ------------PRPPRPPSPPPEPET------TDA-------------SHPSVPPEPLA	1356
+sp|O15047|SET1A_HUMAN      ------------AGPP---APAPRPDE-----------------------RPSSPI-PL-	1157
+sp|Q03164|KMT2A_HUMAN      SNPP--------SGLLIGVQPPPDPQL------LVS--------------ESSQRTDLST	3209
+sp|Q9UMN6|KMT2B_HUMAN      -------------GVVRPAPPPPPPPL------TLV--------------LSSGP-----	2268
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      TLEPPPGRVSPAAAQLADTLFSKGLGP---WD--PPDNLA--ETQKPEQSSLVPGHLDQV	4402
+sp|Q8NEZ4|KMT2C_HUMAN      QLCT------ELENKLPNSDFSQATPNQQTYANSEVDKLSMETPAKTEEIKLEKAETESC	3728
+sp|Q9UPS6|SET1B_HUMAN      EDHP----------------------PHTPGLCGSLA-----KSQSTETVPATPG-----	1384
+sp|O15047|SET1A_HUMAN      -LPP----------------------PKKRRKT-----------VSFSAIEVVPA-----	1178
+sp|Q03164|KMT2A_HUMAN      TVAT----------------------PSSGLKKRPIS-----RLQTRKNKKLAPS-----	3237
+sp|Q9UMN6|KMT2B_HUMAN      -ASP----------------------PRQAIRVKRVS-----------------------	2282
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      NGQVVPEAS-QLSIKQEPREEPCALGAQSVKREANGEPIGAPGTSNHLLLAGPRSEAGHL	4461
+sp|Q8NEZ4|KMT2C_HUMAN      PGQEEPKLEEQNGSKVEGNAVACPVSSAQSPPHSAGAPA-------------AKGDSGNE	3775
+sp|Q9UPS6|SET1B_HUMAN      -------------------GEPPLS--------------------------G-----GSS	1394
+sp|O15047|SET1A_HUMAN      -------------------PEPPPATPP------------------QAKFPGPASRKAPR	1201
+sp|Q03164|KMT2A_HUMAN      -------------------STPSNIAPS------------------DV-V------SNMT	3253
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	2282
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      LLQKL---LRAKNVQLSTGRGSEGLR-AEINGHIDSKLA----------GLEQKLQGTPS	4507
+sp|Q8NEZ4|KMT2C_HUMAN      LLKHL---LKNKKSSSLLNQKPEGSICSEDDCTKDNKLVEKQNPAEGLQTLGAQMQGGFG	3832
+sp|Q9UPS6|SET1B_HUMAN      GLSLSSPQVPGSPFS---------------------------------------------	1409
+sp|O15047|SET1A_HUMAN      GVERTIRNLPLDHAS---------------------------------------------	1216
+sp|Q03164|KMT2A_HUMAN      LINFTPSQLPNHPSLLDLGS-----L----------------------------------	3274
+sp|Q9UMN6|KMT2B_HUMAN      --TFSGRSPPA-------------------------------------------------	2291
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      N-----KEDAAARKPLTPKPKRVQKASDRLVSSRKKLRKEDGVRASEALLKQLKQELSLL	4562
+sp|Q8NEZ4|KMT2C_HUMAN      CGNQLPKTDGGS-ETKKQRSKRTQRTGEKAAP-RSK------------------------	3866
+sp|Q9UPS6|SET1B_HUMAN      ------------------------------------------------------------	1409
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	1216
+sp|Q03164|KMT2A_HUMAN      -----------------------NTSSHRTVPN---------------IIKRSK------	3290
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	2291
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      PLTEPAITANFSLFAPFGSGCPVNGQSQLRGAFGSGALPTGPDYYSQLLTKNNLSNPPTP	4622
+sp|Q8NEZ4|KMT2C_HUMAN      --------------------------KRKKDEEEKQAMYSSTDTFTHLKQQNNLSNPPTP	3900
+sp|Q9UPS6|SET1B_HUMAN      --------------------------------------YP--------------------	1411
+sp|O15047|SET1A_HUMAN      --------------------------------------LV--------------------	1218
+sp|Q03164|KMT2A_HUMAN      ----------------------------------SSIMYF--------------------	3296
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	2291
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      PSSLPPTPPPSVQQKMVNGVTPSEELGEHPKDAASAR-----------------DSERAL	4665
+sp|Q8NEZ4|KMT2C_HUMAN      PASLPPTPPPMACQKMANGFATTEELAGKAGVLVSHEVTKTLGPKPFQLPFRPQDDLLAR	3960
+sp|Q9UPS6|SET1B_HUMAN      --------APSPSLS----------SGGLPR-TPGRD---FSF-------------TPTF	1436
+sp|O15047|SET1A_HUMAN      -------KSWPEEVS----------RGGRSR-AGGRG---RLT-------------EEEE	1244
+sp|Q03164|KMT2A_HUMAN      ------EPAPLLPQS----------VGGTAATAAGTS---TIS-------------QDTS	3324
+sp|Q9UMN6|KMT2B_HUMAN      -------PPPYKAPR----------LD-----EDG-----EAS-------------EDTP	2311
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      RDTSEVKSLDLLAALPTPPHNQ--------TEDVRMESD-EDSDSPDSIVPASSPESILG	4716
+sp|Q8NEZ4|KMT2C_HUMAN      ALAQGPKTVDVPASLPTPPHNN--------QEELRIQDHCGDRDTPDSFVPSSSPESVVG	4012
+sp|Q9UPS6|SET1B_HUMAN      SEPSGPLLLPV---------------C-------PLPT----GRRDERS------GPLAS	1464
+sp|O15047|SET1A_HUMAN      AEPGTEVDLAVLADLALTPARRGLPALPAVEDSEATET----SDEAERP------RPLLS	1294
+sp|Q03164|KMT2A_HUMAN      HLTSG-----SV---------SGLASSSSVLNVVSMQT----TTTPTSS------ASVPG	3360
+sp|Q9UMN6|KMT2B_HUMAN      ----------QV---------PGLG-----------------------------------	2317
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      EEAPRFPHLGSGRWEQEDRALSPVIPLIPRASIPVFPDTKPYGALGLEVPGKLPV----T	4772
+sp|Q8NEZ4|KMT2C_HUMAN      VEVSRYPDLSLVKEEPPEPVPSPIIPILPSTAGKSSESRRN--DI-KTEPGTLYFASPFG	4069
+sp|Q9UPS6|SET1B_HUMAN      ----------PVLLETGLPLPLPLP-------------------L--PLPLALPAV--L-	1490
+sp|O15047|SET1A_HUMAN      ----------HILLEHNYALAV--------------------------------------	1306
+sp|Q03164|KMT2A_HUMAN      ----------HVTLTNPRLLGTPDIGSISNLLIKASQQ--SLGIQ--DQPVALPPS--SG	3404
+sp|Q9UMN6|KMT2B_HUMAN      ----------------------------------------------------------SG	2319
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      TW-EKGKGSEVSVMLTVSAAAAKNLNGVMVAVAELLSMKIPNSYEVLFPESPARAGTEPK	4831
+sp|Q8NEZ4|KMT2C_HUMAN      PSPNGPRSGLISVAITLHPTAAENISSVVAAFSDLLHVRIPNSYEVSSAPDVPSMGLVSS	4129
+sp|Q9UPS6|SET1B_HUMAN      --RAQARAP------TPLP------------------PLLPAPLASCPPPMKRKPGR---	1521
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	1306
+sp|Q03164|KMT2A_HUMAN      MFPQLGTSQ------TPST------------------AAITAASSICVLPSTQTTGI---	3437
+sp|Q9UMN6|KMT2B_HUMAN      GFSRVRMK-------TP-----------------------------------TVRGV---	2334
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      K-------------------GE----------------------AEGPGGKEKGL--EGK	4848
+sp|Q8NEZ4|KMT2C_HUMAN      HRINPGLEYRQHLLLRGPPPGSANPPRLVSSYRLKQPNVPFPPTSNGLSGYKDSSHGIAE	4189
+sp|Q9UPS6|SET1B_HUMAN      --------------PRRSPPSML-----------SLDGP---------------------	1535
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	1306
+sp|Q03164|KMT2A_HUMAN      --------------TAASPSGEAD-----EHYQLQHVNQ---------------------	3457
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	2334
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      SPDTGPDWLKQFDAVLPGYTLKSQLDILSLLKQESPAPEPP-------------------	4889
+sp|Q8NEZ4|KMT2C_HUMAN      SAALRPQWCCHCKVVILGSGVRKSFKDLTLLNKDSRESTKRVEKDIVFCSNNCFILYSST	4249
+sp|Q9UPS6|SET1B_HUMAN      -------------LVRPPAGAALGRELLLLPGQ------PQ------------TPVFPST	1564
+sp|O15047|SET1A_HUMAN      ------------------------------------------------------------	1306
+sp|Q03164|KMT2A_HUMAN      -------------LLASKTGIHSSQRDLDSASG------PQ------------VSNFTQT	3486
+sp|Q9UMN6|KMT2B_HUMAN      -------------------------LDLDR------------------------------	2339
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      --------------------------TQHSYTYNVSNLDVRQLSAPPPEEPSPPPSPLAP	4923
+sp|Q8NEZ4|KMT2C_HUMAN      AQAKNSENKESIPSLPQSPMRETPSKAFHQYSNNISTLDVHCLPQLPEK-----------	4298
+sp|Q9UPS6|SET1B_HUMAN      H-DPRTV--------------------TLDF--------------RNAGIPAPPP-----	1584
+sp|O15047|SET1A_HUMAN      -------------------------------------------------KP--TP-----	1310
+sp|Q03164|KMT2A_HUMAN      VDAPNSM--------------------GLEQNK-ALSSAVQASPTSPGGSPSSPSSG--Q	3523
+sp|Q9UMN6|KMT2B_HUMAN      -------------------------------------------PGEPAGEESPGPL----	2352
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      SPASPPTEPLVELPTEPLAEPPVPSPLPLASS----PESARPKPRARPPEEGEDSRPPRL	4979
+sp|Q8NEZ4|KMT2C_HUMAN      --ASPPASPPIAFP-------PAFEAAQVEAKPDELKVTVKLKPRLRAVHGGFEDCRPLN	4349
+sp|Q9UPS6|SET1B_HUMAN      ------PLPPQPPPP-----PPPPPVEPTK------------------------------	1603
+sp|O15047|SET1A_HUMAN      ------PAPALRPPE-----PVPAPAALFSS----------------PADEVLEA-----	1338
+sp|Q03164|KMT2A_HUMAN      RS----ASPSVPGPT-----KPKPKTKRFQL----------------PLDKGNGKK----	3554
+sp|Q9UMN6|KMT2B_HUMAN      QE----RSPLLPLPE-----DGPP------------------------------------	2367
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      KKWKGVRWKRLRLL------LTIQKGSGRQEDEREVAEFMEQLGTALRPDKVPRDMRRCC	5033
+sp|Q8NEZ4|KMT2C_HUMAN      KKWRGMKWKKWSIH------IVIPKGTFKPPCEDEIDEFLKKLGTSLKPDPVPKDYRKCC	4403
+sp|Q9UPS6|SET1B_HUMAN      -----LP-----------------------------------------------------	1605
+sp|O15047|SET1A_HUMAN      ---PEVV-----------------------------------------------------	1342
+sp|Q03164|KMT2A_HUMAN      HKVSHLRTSSSEAHIPDQETTSLTSGTGTPGAEAEQQDTA----------SVEQSSQKEC	3604
+sp|Q9UMN6|KMT2B_HUMAN      -------------QVPD-------------------------------------------	2371
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      FCHEEGDGATDGPARLLNLDLDLWVHLNCALWSTEVYETQGGALMNVEVALHRGLLTKCS	5093
+sp|Q8NEZ4|KMT2C_HUMAN      FCHEEGDGLTDGPARLLNLDLDLWVHLNCALWSTEVYETQAGALINVELALRRGLQMKCV	4463
+sp|Q9UPS6|SET1B_HUMAN      -----------------FKELDN-------QWPS--------------------------	1615
+sp|O15047|SET1A_HUMAN      -----------------VAEAEE-------PKPQQLQQQRE-------------------	1359
+sp|Q03164|KMT2A_HUMAN      -------GQPAGQV---AVLPEV-------QVTQNPANEQE-------------------	3628
+sp|Q9UMN6|KMT2B_HUMAN      -----------GPP---DLLLES-------QWHHYSGEASS-------------------	2391
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      LCQRTGATSSCNRMRCPNVYHFACAIRAKCMFFKDKTMLCPMHKIKGPCEQELSSFAVFR	5153
+sp|Q8NEZ4|KMT2C_HUMAN      FCHKTGATSGCHRFRCTNIYHFTCAIKAQCMFFKDKTMLCPMHKPKGIHEQELSYFAVFR	4523
+sp|Q9UPS6|SET1B_HUMAN      ----EAIPPGP-RGR-----------------------------DEVT--EEYMELA---	1636
+sp|O15047|SET1A_HUMAN      ----EGEEEGEEEGE-----------------------------EEEEESSDSSSSS---	1383
+sp|Q03164|KMT2A_HUMAN      -----SAEP-------------------------------------KTVEEEESNFS---	3643
+sp|Q9UMN6|KMT2B_HUMAN      ----SEEEP-------------------------------------P-------------	2397
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      RVYIERDEVKQIASIIQRGERLHMFRVGGLVFHAIGQLLPHQMADFHSATALYPVGYEAT	5213
+sp|Q8NEZ4|KMT2C_HUMAN      RVYVQRDEVRQIASIVQRGERDHTFRVGSLIFHTIGQLLPQQMQAFHSPKALFPVGYEAS	4583
+sp|Q9UPS6|SET1B_HUMAN      ----------------------------------------------------------KS	1638
+sp|O15047|SET1A_HUMAN      ----------------------------------------------------------DG	1385
+sp|Q03164|KMT2A_HUMAN      ----------------------------------------------------------SP	3645
+sp|Q9UMN6|KMT2B_HUMAN      ------------------------------------------------------------	2397
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      RIYWSLRTNNRRCCYRCSIGENNG-------RPEFVIKVIEQGLEDLVFTDASPQAVWNR	5266
+sp|Q8NEZ4|KMT2C_HUMAN      RLYWSTRYANRRCRYLCSIEEKDG-------RPVFVIRIVEQGHEDLVLSDISPKGVWDK	4636
+sp|Q9UPS6|SET1B_HUMAN      RGPWRRPPKKRHE----DLVPPAGSPELSPPQPLFRPRS-E-----F-EEMTILYDIWNG	1687
+sp|O15047|SET1A_HUMAN      EGALRRRSLRSHA----RRRRP-PPPPPPPPPRAYEPRS-E-----F-EQMTILYDIWNS	1433
+sp|Q03164|KMT2A_HUMAN      LMLWLQQEQKRKE----SITEKKP-----KKGLVFEISS-D---DGFQICAESIEDAWKS	3692
+sp|Q9UMN6|KMT2B_HUMAN      -------SPDDKE----NQAPKRT-----GPHLRFEISS-E---DGFSVEAESLEGAWRT	2437
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      IIEPVAAMRKEADMLRLFPEYLKGEELFGLTVHAVLRIAESLPGVESCQNYLFRYGRHPL	5326
+sp|Q8NEZ4|KMT2C_HUMAN      ILEPVACVRKKSEMLQLFPAYLKGEDLFGLTVSAVARIAESLPGVEACENYTFRYGRNPL	4696
+sp|Q9UPS6|SET1B_HUMAN      GIDEED----------IRFLCVTYER-----------LLQQDNGMDWLNDTLWVYHPSTS	1726
+sp|O15047|SET1A_HUMAN      GLDSED----------MSYLRLTYER-----------LLQQTSGADWLNDTHWVHHTITN	1472
+sp|Q03164|KMT2A_HUMAN      LTDKVQEARSNARLKQLSFAGVNGLRMLGILHDAVVFLIEQLSGAKHCRNYKFRFHKPE-	3751
+sp|Q9UMN6|KMT2B_HUMAN      LIEKVQEARGHARLRHLSFSGMSGARLLGIHHDAVIFLAEQLPGAQRCQHYKFRYHQQG-	2496
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      M---------ELPLMINPTGCARSEPKILTHYK-------RPHTL------NSTSMSKAY	5364
+sp|Q8NEZ4|KMT2C_HUMAN      M---------ELPLAVNPTGCARSEPKMSAHVKR---FVLRPHTL------NSTSTSKSF	4738
+sp|Q9UPS6|SET1B_HUMAN      LSSAKKK-KRDDGIREHVTGCARSEGFYTIDKKDKLRYLNSSRASTDEPPADTQGMSIPA	1785
+sp|O15047|SET1A_HUMAN      LTTPKRKRRPQDGPREHQTGSARSEGYYPISKKEKDKYLDVCPVSARQLE----G----V	1524
+sp|Q03164|KMT2A_HUMAN      --------E-ANEPPLNPHGSARAEVHLRKSAFDMFNFLASKH---RQPPEYNPN-----	3794
+sp|Q9UMN6|KMT2B_HUMAN      --------EGQEEPPLNPHGAARAEVYLRKCTFDMFNFLASQH---RVLPEGATC-----	2540
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      QS---TFTGETNTPYSKQ----------FVHSKSSQYRRLRTEWKNNVYLARSRIQGLGL	5411
+sp|Q8NEZ4|KMT2C_HUMAN      QS---TVTGELNAPYSKQ----------FVHSKSSQYRKMKTEWKSNVYLARSRIQGLGL	4785
+sp|Q9UPS6|SET1B_HUMAN      QPHASTRAGSERRSEQRRLLSSFT--GSCDS-DLLKFNQLK-FRKKKLKFCKSHIHDWGL	1841
+sp|O15047|SET1A_HUMAN      DTQGTNRVLSERRSEQRRLLSAIGTSAIMDS-DLLKLNQLK-FRKKKLRFGRSRIHEWGL	1582
+sp|Q03164|KMT2A_HUMAN      ----------DEEEEEVQLKSA-RRATSMDLPMPMRFRHLKKTSKEAVGVYRSPIHGRGL	3843
+sp|Q9UMN6|KMT2B_HUMAN      ----------DEEEDEVQLRST-RRATSLELPMAMRFRHLKKTSKEAVGVYRSAIHGRGL	2589
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      YAAKDLEKHTMVIEYIGTIIRNEVANRREKIYEEQNRG-IYMFRINNEHVIDATLTGGPA	5470
+sp|Q8NEZ4|KMT2C_HUMAN      YAARDIEKHTMVIEYIGTIIRNEVANRKEKLYESQNRG-VYMFRMDNDHVIDATLTGGPA	4844
+sp|Q9UPS6|SET1B_HUMAN      FAMEPIAADEMVIEYVGQNIRQVIADMREKRYEDEGIGSSYMFRVDHDTIIDATKCGNFA	1901
+sp|O15047|SET1A_HUMAN      FAMEPIAADEMVIEYVGQNIRQMVADMREKRYVQEGIGSSYLFRVDHDTIIDATKCGNLA	1642
+sp|Q03164|KMT2A_HUMAN      FCKRNIDAGEMVIEYAGNVIRSIQTDKREKYYDSKGIG-CYMFRIDDSEVVDATMHGNAA	3902
+sp|Q9UMN6|KMT2B_HUMAN      FCKRNIDAGEMVIEYSGIVIRSVLTDKREKFYDGKGIG-CYMFRMDDFDVVDATMHGNAA	2648
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      ------------------------------------------------------------	1858
+sp|O14686|KMT2D_HUMAN      RYINHSCAPNCVAEVVTFDKEDKIIIISSRRIPKGEELTYDYQFDFEDDQHKIPCHCGAW	5530
+sp|Q8NEZ4|KMT2C_HUMAN      RYINHSCAPNCVAEVVTFERGHKIIISSSRRIQKGEELCYDYKFDFEDDQHKIPCHCGAV	4904
+sp|Q9UPS6|SET1B_HUMAN      RFINHSCNPNCYAKVITVESQKKIVIYSKQHINVNEEITYDYKFPIED--VKIPCLCGSE	1959
+sp|O15047|SET1A_HUMAN      RFINHCCTPNCYAKVITIESQKKIVIYSKQPIGVDEEITYDYKFPLED--NKIPCLCGTE	1700
+sp|Q03164|KMT2A_HUMAN      RFINHSCEPNCYSRVINIDGQKHIVIFAMRKIYRGEELTYDYKFPIEDASNKLPCNCGAK	3962
+sp|Q9UMN6|KMT2B_HUMAN      RFINHSCEPNCFSRVIHVEGQKHIVIFALRRILRGEELTYDYKFPIEDASNKLPCNCGAK	2708
+                                                                                       
+
+sp|Q8IZD2|KMT2E_HUMAN      -------	1858
+sp|O14686|KMT2D_HUMAN      NCRKWMN	5537
+sp|Q8NEZ4|KMT2C_HUMAN      NCRKWMN	4911
+sp|Q9UPS6|SET1B_HUMAN      NCRGTLN	1966
+sp|O15047|SET1A_HUMAN      SCRGSLN	1707
+sp|Q03164|KMT2A_HUMAN      KCRKFLN	3969
+sp|Q9UMN6|KMT2B_HUMAN      RCRRFLN	2715
